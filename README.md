@@ -41,7 +41,7 @@
     <a href="https://linkedin.com/in/jaleelnazir/" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="https://www.linkedin.com/in/jaleelnazir/" height="30" width="40" /></a>
-    <a href="https://stackoverflow.com/users/3177007" target="blank"><img align="center"
+    <a href="https://stackoverflow.com/users/jaleelnazir" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
             alt="3177007" height="30" width="40" /></a>
     <a href="https://medium.com/@nazirjaleel" target="blank"><img align="center"
